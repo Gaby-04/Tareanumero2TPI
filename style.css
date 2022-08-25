@@ -1,0 +1,80 @@
+.calculadora{
+    width: 300px;
+    height: 400px;
+    background-color: #2C2E43;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.calculadora1{
+    width: 300px;
+    height: 400px;
+    background-color: #2C2E43;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-top: -440px;
+}
+
+
+
+
+.btn{
+    background-color:rgb(230, 6, 6);
+   color: aliceblue;
+   width: 50px;
+   height: 40px;
+   border-radius: 10px;
+}
+
+.operaciones{
+    background-color: #ffce63;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.numeros{
+    background-color: #3A3845;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.igual{
+    background-color: #fff065;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.cal{
+    width: 300px;
+    height: 250px; 
+}
+
+body{
+    margin-top: 100px;
+}
+#resultado{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width: 275px;
+    height: 100px;
+    line-height: 100px;
+    background-color: #E5EFC1 ;
+    border: 3px solid black;
+    
+  }
